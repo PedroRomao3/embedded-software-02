@@ -26,7 +26,7 @@ This repository contains the embedded software for the FS FEUP 02 prototype, dev
 * CAN bus communication with charger
 * Display control via SPI
 
-### ROS CAN Interface (AS CU)
+### ROS CAN Interface (AS CU) [link](https://github.com/fs-feup/as-integration)
 * ROS 2 node for CAN integration
 * Enables autonomous operation and telemetry logging
 
