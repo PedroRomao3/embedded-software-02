@@ -42,7 +42,3 @@ The codebase is organized into the following main directories and files:
 * **teensy_handcart**: Code for the handcart interface.
 * **CAN_IDs.h**: Centralized CAN bus identifier definitions.
 * **conf.dbc**: Database file for system-wide CAN communication.
-
-## Infrastructure
-* **External Data Server**: Central node for data processing, visualization, and storage.
-* **Documentation**: Technical manuals and instructions located in the docs folder.
